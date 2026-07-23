@@ -1,1 +1,1 @@
-select 'hello' from dual
+select 'hello' from TEST_TABLE
